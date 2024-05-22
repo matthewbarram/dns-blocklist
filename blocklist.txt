@@ -121,3 +121,6 @@ telstra.pointsym.ws
 pointsym.ws
 telstra.pointsvk.services
 pointsvk.services
+sendibt3.com
+gettingstartedbcbsma.com
+imhighthatswhy.com
