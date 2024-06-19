@@ -1,3 +1,5 @@
+diaton.stream
+telstra.mypoaf.ws
 mypolc.ws
 qovservice-reimbursement.cfd
 auspost.mypoep.ws
